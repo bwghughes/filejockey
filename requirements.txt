@@ -6,4 +6,4 @@ python-magic==0.4.13
 qrcode==5.3
 requests==2.18.4
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
